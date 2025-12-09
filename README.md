@@ -34,6 +34,9 @@ What I Do
 - AI-driven features and intelligent assistants  
 - Improving frontend architecture and performance  
 
+📬 Connect With Me
+- Email: chemhuru.panashe@gmail.com
+
 ---
 
 🛠 Tech Stack
