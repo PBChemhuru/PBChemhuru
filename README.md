@@ -9,7 +9,7 @@ What I Do
 
 🔧 Backend Development
 - Node.js | .NET Core | Laravel  
-- RESTful APIs, authentication, RBAC  
+- RESTful APIs, authentication
 - Microservices, system decomposition  
 - Database design & optimisation (PostgreSQL, MySQL)  
 - Secure, scalable, and maintainable architectures
